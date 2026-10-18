@@ -1,1 +1,4 @@
-/LUNA_SHELL_AI
+__pycache__/
+*.pyc
+*.search-ms
+desktop.ini
